@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.5.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-07-29T16:41:50+09:00</updated><id>http://localhost:4000/</id><title type="html">티모의 Deep Learning</title><subtitle>딥러닝을 이용한 놀이방 :)</subtitle><entry><title type="html">Markdown test</title><link href="http://localhost:4000/2017/07/29/dinosaurs/" rel="alternate" type="text/html" title="Markdown test" /><published>2017-07-29T09:00:00+09:00</published><updated>2017-07-29T09:00:00+09:00</updated><id>http://localhost:4000/2017/07/29/dinosaurs</id><content type="html" xml:base="http://localhost:4000/2017/07/29/dinosaurs/">&lt;h1 id=&quot;안녕하세요&quot;&gt;안녕하세요&lt;/h1&gt;
+
+&lt;p&gt;안녕하세요 제 이름은 김준성입니다.&lt;/p&gt;
+
+&lt;h2 id=&quot;오늘은-뭘-해볼까요&quot;&gt;오늘은 뭘 해볼까요??&lt;/h2&gt;
+
+&lt;p&gt;띠요오옹&lt;/p&gt;</content><author><name>Junseong Kim</name></author><summary type="html">안녕하세요</summary></entry></feed>

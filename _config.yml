@@ -1,0 +1,24 @@
+# Site settings
+title: 아에이오
+header-img: img/home-bg.jpg
+email: codertimo@gmail.com
+copyright_name: aaeeio
+description: "아아아에에에이이이오오오"
+baseurl: ""
+url: "https://aaeeio.github.io"
+twitter_username:
+github_username:
+facebook_username:
+email_username:
+
+# Google Analytics
+# To enable google analytics, uncomment below line with a valid Google Tracking ID
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
